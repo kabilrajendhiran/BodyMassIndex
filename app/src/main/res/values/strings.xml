@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Body Mass Index </string>
+    <string name="height">Enter height in M</string>
+    <string name="weight">Enter Weight in kg</string>
+</resources>
